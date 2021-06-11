@@ -1,0 +1,16 @@
+@media only screen and (max-width: 380px) {
+    .header-section{
+    width: 388px;
+}
+footer{
+    width: 388px;
+}
+}
+@media only screen and (min-width: 381px) and (max-width: 580px) {
+  .header-section{
+    width: 588px;
+}
+footer{
+    width: 588px;
+}
+}

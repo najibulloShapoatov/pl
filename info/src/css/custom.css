@@ -1,0 +1,347 @@
+
+
+.white{
+   color: #fff; 
+}
+
+.home-background{
+    position: absolute;
+width:100%;
+height: 744.59px;
+left: -59.74px;
+top: -75.37px;
+
+background: linear-gradient(274.87deg, #257AD1 5.89%, #51AFFC 95.7%);
+transform: rotate(-4.61deg);
+}
+.main-menu .navbar-nav li.nav-item a.nav-link {
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+color: #FFFFFF;
+}
+
+.btn-pereyti{ 
+background: #FFCC00;
+border-radius: 5px;
+}
+.text-pereyti{
+    padding: 15px 70px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+color: #212121;
+}
+
+.leptop{
+    padding-top: 5%;
+    padding-left: 10%;
+    width: 805px;
+    height: 550px;
+    
+}
+.leptop img{
+    position: absolute;
+    /* box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.1); */
+}
+.leptop-img{
+    position: absolute;
+    width: 100%;
+    height: 73%;
+    padding-left: 13%;
+    padding-top: 9%;
+
+}
+.leptop-img img{
+    width: 100%;
+    height: 100%;
+}
+.bg-image{
+    position: absolute;
+    width: 100%;
+    height: 200px;
+}
+.bg-image img{
+    width: 100%;
+    height: 100%;
+}
+.t-features-content h4{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+
+color: #212121;
+}
+.t-features-content p{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* or 122% */
+
+
+color: #757575;
+}
+.third-choose-bg-shape {
+    position: absolute;
+    right: 0;
+    /* bottom: 9%; */
+    top: 11%;
+    z-index: -1;
+}
+#Review .container{
+    margin-top: 230px;
+}
+.rewiew-title{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 24px;
+/* or 50% */
+
+
+color: #FFFFFF;
+}
+.rewiew-content{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+
+color: #212121;
+}
+.rewiew-author{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+    
+    
+    color: #212121;
+}
+.rewiew-role{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    /* identical to box height, or 200% */
+    
+    
+    color: #757575;
+}
+.testimonial-img{
+    width: 60px;
+    height: 60px;
+}
+.testimonial-img img{
+border-radius: 50%;
+width: 100%;
+height: 100%;
+}
+.stat-title{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 24px;
+/* identical to box height, or 50% */
+
+
+color: #212121;
+}
+.stat-title-p{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+text-align: center;
+
+color: #757575;
+}
+.stat-item-title{
+    text-align: center;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 100px;
+/* identical to box height, or 25% */
+color: #007bff;
+background: linear-gradient(to right, #51AFFC   0%, #257AD1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.stat-item-content{
+    text-align: center;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 50px;
+color: #FFCC00;
+}
+
+.t-video-area .third-video {
+    background: rgba(255, 204, 0, 0.9);
+box-shadow: 0px 5px 10px rgba(33, 33, 33, 0.25);
+    background-image: unset;
+}
+.t-video-area .third-video::before {
+    background:rgba(255, 204, 0, 0.9);
+    background-image: unset;
+}
+.video-post{
+    position: absolute;
+    width: 722px;
+    top: 11.5%;
+    height: 460px;
+    z-index: 0;
+    left: 12%;
+}
+.video-post img{
+    width: 100%;
+    height: 100%;
+}
+.video-lept{
+    z-index: 1000;
+}
+.t-testi-bg {
+    padding-top: 500px;
+    padding-bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p.title-p{
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 50px;
+    /* or 50% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.title_footer{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+
+color: #212121;
+}
+
+.address_footer{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+    
+    
+    color: #212121;
+}
+
+.tel_footer{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+    
+    
+    color: #212121;
+}
+
+.copyright-text p {
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 139% */
+
+
+color: #212121;
+    margin-bottom: 0;
+}
+
+.preloader span {
+    position: absolute;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background: #007bff;
+    -webkit-animation: preloader 1.3s linear infinite;
+    animation: preloader 1.3s linear infinite;
+}
+#scrollUp {
+    background: #007bff;
+    height: 50px;
+    width: 50px;
+    right: 50px;
+    bottom: 77px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 28px;
+    line-height: 50px;
+}
+
+
+
+.s-video {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 140px;
+    width: 140px;
+    text-align: center;
+    line-height: 140px;
+    background: #fff;
+    color: #FFCC00;
+    font-size: 30px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.video-leptop{
+    height: 550px;
+
+    background-image: url('../images/Laptop.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}

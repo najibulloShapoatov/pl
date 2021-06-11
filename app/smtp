@@ -1,0 +1,23 @@
+
+smtp.tspu-portal{
+name: TSPU
+surname: portal
+
+login: tspu-portal@yandex.ru
+password: bcrRgEpgrcCm75eVmLNJRfHpsws5KTXHUtXMTmLx9gLAtrGacXRhE4FvPB4fuvvW
+
+control-query: ваша любимая книга в дестства
+control-answer:DDOT
+
+
+  password app: Xhd4WjEMfxgu2L3n
+}
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.yandex.ru
+MAIL_PORT=587
+MAIL_USERNAME=tspu-portal@yandex.ru
+MAIL_PASSWORD=Xhd4WjEMfxgu2L3n
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=tspu-portal@yandex.ru
+MAIL_FROM_NAME=TSPU
